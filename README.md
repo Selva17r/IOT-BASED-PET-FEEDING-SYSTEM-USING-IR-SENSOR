@@ -1,8 +1,8 @@
-**Overview
-**
+**Overview**
+
 An IoT-based smart pet feeding system that allows pet owners to automate feeding schedules, control food portions, and monitor their pets remotely. Built using simple hardware components and microcontrollers, this project ensures pets are fed on time—even when owners are away.
 
-** Features**
+**Features**
 
 - Automated Feeding Schedule – Set feeding times in advance.
 
@@ -14,7 +14,7 @@ An IoT-based smart pet feeding system that allows pet owners to automate feeding
 
 - Energy Efficient – Low power consumption hardware design.
 
-** Tech Stack**
+**Tech Stack**
 
 Hardware: Arduino/ESP32 (or your chosen microcontroller), Servo Motor, Food Dispenser Mechanism, Sensors
 
@@ -44,7 +44,7 @@ Connectivity: Wi-Fi Module (ESP8266/ESP32)
 
 - Upload the code and configure Wi-Fi credentials.
 
-📸 Project Demo
+**Circuit Diagram**
 
 <img width="556" height="256" alt="image" src="https://github.com/user-attachments/assets/3b6089f0-2eb8-48dd-9eb2-9dc0ec6979f5" />
 
