@@ -49,14 +49,9 @@ Connectivity: Wi-Fi Module (ESP8266/ESP32)
 <img width="556" height="256" alt="image" src="https://github.com/user-attachments/assets/3b6089f0-2eb8-48dd-9eb2-9dc0ec6979f5" />
 
 
-**Future Improvements**
+**Done by:**
+Selvanayaki R 
+Ajantha C
+Kogila V 
+Saruhasini R
 
-- Live camera monitoring of pets
-
-- Multi-pet support with separate portions
-
-- Cloud-based analytics for feeding history
-
-**Contributing**
-
-Contributions are welcome! Feel free to fork this repo, raise issues, or submit pull requests.
